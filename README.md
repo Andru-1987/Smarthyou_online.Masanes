@@ -3,7 +3,7 @@
 <img src="structure/data_imagen/Flyer.JPG" style="width: 100%; height: auto;">
 
 
-#<center>Entrega de proyecto final</center>
+# <center>Entrega de proyecto final</center>
 Alumno/a: Gisela Masanes (grosa)
 
 Comisión: 53180
