@@ -231,4 +231,6 @@ Se puede generar un comando en el archivo `make backup` que me permite ejecutar 
     <img src="structure/data_imagen/coder.png" alt="Coder" style="width: 50px; height: 50px; margin: 10px;">
 </p>
 
--- update_ basta x hoy
+-- 
+
+`update_ basta` x hoy :D 
